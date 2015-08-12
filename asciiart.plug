@@ -1,0 +1,9 @@
+[Core]
+Name = AsciiArt
+Module = asciiart
+
+[Documentation]
+Description = Make what you say big !
+
+[Python]
+Version = 3
